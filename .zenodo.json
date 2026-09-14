@@ -1,0 +1,22 @@
+{
+  "title": "Figure reproduction code and processed data for heatwave dynamics in storm-resolving ICON simulations",
+  "upload_type": "software",
+  "description": "Plotting scripts and compact processed NetCDF data required to reproduce five main manuscript figures comparing heatwave characteristics, land-atmosphere coupling, post-heatwave wet/dry conditions, and blocking-heatwave co-occurrence in ICON simulations and ERA5.",
+  "creators": [
+    {
+      "name": "Dolores-Tesillos, Edgar"
+    }
+  ],
+  "access_right": "open",
+  "license": "MIT",
+  "version": "1.0.0",
+  "keywords": [
+    "heatwaves",
+    "atmospheric blocking",
+    "convection",
+    "ICON",
+    "ERA5",
+    "climate model evaluation",
+    "reproducibility"
+  ]
+}

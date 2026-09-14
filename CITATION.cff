@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: >-
+  If you use this figure-reproduction package, please cite the archived
+  software release and the associated manuscript.
+type: software
+title: "Figure reproduction code and processed data for heatwave dynamics in storm-resolving ICON simulations"
+authors:
+  - family-names: "Dolores-Tesillos"
+    given-names: "Edgar"
+version: 1.0.0
+date-released: 2026-09-09
+license: MIT
+keywords:
+  - heatwaves
+  - atmospheric blocking
+  - convection
+  - ICON
+  - ERA5
+  - climate model evaluation
+  - reproducibility
+abstract: >-
+  Plotting scripts and compact processed NetCDF data used to reproduce five
+  main figures from a study of heatwave characteristics and their dynamical
+  and land-atmosphere relationships in storm-resolving and parameterized-convection
+  ICON simulations relative to ERA5.

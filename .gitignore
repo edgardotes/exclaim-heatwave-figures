@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environments
+.venv/
+venv/
+env/
+.env
+
+# Editors / OS
+.DS_Store
+.vscode/
+.idea/
+*~
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.log
+
+# Local scratch / analysis products not part of the release
+scratch/
+work/
