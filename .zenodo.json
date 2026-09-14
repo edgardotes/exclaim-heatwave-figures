@@ -8,8 +8,9 @@
     }
   ],
   "access_right": "open",
-  "license": "MIT",
+  "license": "mit",
   "version": "1.0.0",
+  "language": "eng",
   "keywords": [
     "heatwaves",
     "atmospheric blocking",
